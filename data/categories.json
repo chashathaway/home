@@ -1,0 +1,97 @@
+[
+  {
+    "id": "about",
+    "title": "About Me",
+    "description": "A short introduction, background, and what ties these different projects together.",
+    "icon": "about",
+    "href": "page.html?page=about",
+    "status": "Soon",
+    "cta": "Preview"
+  },
+  {
+    "id": "music",
+    "title": "Music",
+    "description": "Christian music, original music, piano arrangements, and sheet music.",
+    "icon": "music",
+    "priority": true,
+    "status": "Ready"
+  },
+  {
+    "id": "books-and-writings",
+    "title": "Books and Writings",
+    "description": "Nonfiction, inspirational books, fiction, and children's books.",
+    "icon": "books",
+    "priority": true,
+    "status": "Ready"
+  },
+  {
+    "id": "art-and-design",
+    "title": "Art and Design",
+    "description": "Christian art, creative ideas, artistic expressions and design.",
+    "icon": "art",
+    "priority": true,
+    "status": "Ready"
+  },
+  {
+    "id": "education",
+    "title": "Education",
+    "description": "Homeschool helps, personal education, science, math, history, educational recommendations, etc.",
+    "icon": "education",
+    "priority": true,
+    "status": "Ready"
+  },
+  {
+    "id": "apps-and-games",
+    "title": "Apps and Games",
+    "description": "Vibe coded games, apps, ideas, and projects.",
+    "icon": "apps",
+    "href": "https://blog.chashathaway.com/",
+    "status": "Soon",
+    "cta": "Placeholder"
+  },
+  {
+    "id": "journals",
+    "title": "Journals, Inspiration, Quotes, Motivation",
+    "description": "Journals, inspiration, quotes, and motivation.",
+    "icon": "journal",
+    "href": "https://blog.chashathaway.com/",
+    "status": "Soon",
+    "cta": "Placeholder"
+  },
+  {
+    "id": "nature",
+    "title": "Nature",
+    "description": "Gardening, plants, permaculture, etc.",
+    "icon": "nature",
+    "href": "https://willowrisegardens.com/",
+    "status": "Soon",
+    "cta": "Placeholder"
+  },
+  {
+    "id": "comedy",
+    "title": "Comedy",
+    "description": "In case you could use a laugh.",
+    "icon": "comedy",
+    "href": "page.html?page=comedy",
+    "status": "Soon",
+    "cta": "Placeholder"
+  },
+  {
+    "id": "scripture-helps-and-study",
+    "title": "Scripture Helps and Study",
+    "description": "Exploration of God's words.",
+    "icon": "faith",
+    "href": "page.html?page=scripture-helps-and-study",
+    "status": "Soon",
+    "cta": "Placeholder"
+  },
+  {
+    "id": "miscellaneous",
+    "title": "Miscellaneous",
+    "description": "Ideas, Projects, and Dreams. Everything else that didn't fit elsewhere.",
+    "icon": "misc",
+    "href": "page.html?page=miscellaneous",
+    "status": "Soon",
+    "cta": "Placeholder"
+  }
+]

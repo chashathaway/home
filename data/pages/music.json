@@ -1,0 +1,76 @@
+{
+  "title": "Music",
+  "kicker": "",
+  "description": "Explore my music, arrangements, and creative collaborations.",
+  "icon": "music",
+  "layout": "music-folders",
+  "subsectionHeading": "Music branches",
+  "subcategories": [
+    {
+      "title": "Sheet Music Arrangements",
+      "description": "",
+      "icon": "music",
+      "visual": "music-sheet",
+      "symbol": "♬",
+      "thumb": "assets/music-thumb-sheet.png",
+      "iconImage": "assets/music-icon-note.png",
+      "url": "https://chashathaway.com/sheet_music.htm"
+    },
+    {
+      "title": "Original Music",
+      "description": "",
+      "icon": "music",
+      "visual": "music-piano",
+      "symbol": "♪",
+      "thumb": "assets/music-thumb-original.png",
+      "iconImage": "assets/music-icon-piano.png",
+      "url": "https://chashathaway.bandcamp.com/music"
+    },
+    {
+      "title": "Christian Music Expo (AI collaborated music)",
+      "description": "",
+      "icon": "faith",
+      "visual": "music-light",
+      "symbol": "",
+      "thumb": "assets/music-thumb-christian.png",
+      "iconImage": "assets/music-icon-christian.png",
+      "url": "https://open.spotify.com/artist/3cPN9lq4fJBs5gmtSsebMf/discography/all"
+    },
+    {
+      "title": "Educational music (Original and AI collaborated music)",
+      "description": "",
+      "icon": "music",
+      "visual": "music-book",
+      "symbol": "♪",
+      "thumb": "assets/music-thumb-educational.png",
+      "iconImage": "assets/music-icon-education.png",
+      "url": "https://open.spotify.com/artist/3t5VoBqHH0W7dxHVqks1M5"
+    },
+    {
+      "title": "Comedy (AI collaborated music)",
+      "description": "",
+      "icon": "comedy",
+      "visual": "music-stage",
+      "symbol": "",
+      "thumb": "assets/music-thumb-comedy.png",
+      "iconImage": "assets/music-icon-comedy.png",
+      "url": "https://open.spotify.com/artist/3t5VoBqHH0W7dxHVqks1M5/discography/all"
+    },
+    {
+      "title": "Other Musical Projects",
+      "description": "",
+      "icon": "other",
+      "visual": "music-vinyl",
+      "symbol": "★",
+      "thumb": "assets/music-thumb-other.png",
+      "iconImage": "assets/music-icon-other.png",
+      "url": "https://suno.com/@chashathaway"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Music speaks to the soul.",
+      "description": "What is your music saying?"
+    }
+  ]
+}

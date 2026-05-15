@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Warm portrait medallion">
+  <defs>
+    <radialGradient id="glow" cx="42%" cy="28%" r="72%">
+      <stop offset="0" stop-color="#fff2c2"/>
+      <stop offset=".38" stop-color="#d99b43"/>
+      <stop offset="1" stop-color="#352014"/>
+    </radialGradient>
+    <linearGradient id="robe" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#f4e5bf"/>
+      <stop offset="1" stop-color="#8f6040"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="61" fill="#1b120c" stroke="#f3d58b" stroke-width="4"/>
+  <circle cx="64" cy="64" r="52" fill="url(#glow)" opacity=".94"/>
+  <path d="M31 115c6-22 19-34 33-34s27 12 33 34z" fill="url(#robe)"/>
+  <path d="M38 59c0-24 12-42 28-42 17 0 30 18 30 42 0 21-13 36-30 36-16 0-28-15-28-36z" fill="#5b3524"/>
+  <path d="M45 57c2-21 10-32 21-32s21 12 23 32c2 19-8 31-23 31-14 0-23-12-21-31z" fill="#e7b87a"/>
+  <path d="M46 45c5-15 14-23 24-22 11 2 18 11 21 25-14-8-28-9-45-3z" fill="#2b1b15"/>
+  <path d="M39 59c3-22 13-39 27-43 14 6 25 22 28 44-7-10-15-16-28-17-11 0-20 6-27 16z" fill="#2a1a13" opacity=".94"/>
+  <path d="M55 68c7 5 16 5 23 0 0 12-5 19-12 19s-11-7-11-19z" fill="#70422b"/>
+  <path d="M53 58c4-3 9-3 13 0M71 58c4-3 9-3 13 0" fill="none" stroke="#2e2118" stroke-width="3" stroke-linecap="round"/>
+  <path d="M59 76c5 3 10 3 15 0" fill="none" stroke="#3a241b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M62 64c1 5 0 8-3 11" fill="none" stroke="#8e5d3e" stroke-width="3" stroke-linecap="round"/>
+</svg>

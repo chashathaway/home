@@ -1,0 +1,88 @@
+{
+  "title": "Books and Writings",
+  "kicker": "Books that teach, inspire, and entertain",
+  "description": "From uplifting spiritual insights to laugh-out-loud family moments, imaginative adventures, and fun children's books, there's something here for every soul and every stage.",
+  "icon": "books",
+  "layout": "book-catalog",
+  "subsectionHeading": "Books and Writings",
+  "subcategories": [
+    {
+      "title": "Life in the Spirit World",
+      "description": "What Near-Death Experiences May Teach about Life in the Spirit World",
+      "cover": "assets/book-life-spirit-world.png",
+      "url": "https://www.amazon.com/Life-Spirit-World-Near-Death-Experiences-ebook/dp/B07L9SB7L4/ref=sr_1_5"
+    },
+    {
+      "title": "Marriage is Ordained of God, but Who Came Up with Dating?",
+      "description": "A Humorous Guide to Help You Succeed in Dating",
+      "cover": "assets/book-marriage-dating.png",
+      "url": "https://chashathaway.com/who_came_up_with_dating.htm"
+    },
+    {
+      "title": "Scripture Study Made Awesome",
+      "description": "Over 100 Scripture Study Methods You've Probably Never Tried",
+      "cover": "assets/book-scripture-study-made-awesome.png",
+      "url": "https://chashathaway.com/scripture_study_made_awesome.htm"
+    },
+    {
+      "title": "Giraffe Tracks",
+      "description": "The Inspiring True Story of an LDS Missionary in Post-Apartheid South Africa",
+      "cover": "assets/book-giraffe-tracks.png",
+      "url": "https://chashathaway.com/giraffe_tracks.htm"
+    },
+    {
+      "title": "The Second Coming and the Second Commandment",
+      "description": "On the Return of Jesus Christ to the Earth",
+      "cover": "assets/book-second-coming.png",
+      "url": "https://www.amazon.com/Second-Coming-Commandment-ebook/dp/B00WY8NMU6/ref=sr_1_2"
+    },
+    {
+      "title": "Families are Forever: So Pack Extra Diapers",
+      "description": "A Humorous Guide to Parenting",
+      "cover": "assets/book-families-forever.png",
+      "url": "https://www.amazon.com/Families-Forever-Pack-Extra-Diapers-ebook/dp/B00ZJ0LZHS/ref=sr_1_9"
+    },
+    {
+      "title": "Play by Ear, Write by Heart",
+      "description": "Playing the Piano and Composing Music without Reading Notes",
+      "cover": "assets/book-play-by-ear.png",
+      "url": "https://chashathaway.com/play_by_ear.htm"
+    },
+    {
+      "title": "You'll Make It",
+      "description": "Quotes and Thoughts: Vol. 1",
+      "cover": "assets/book-youll-make-it.png",
+      "url": "https://www.amazon.com/Youll-Make-Motivational-Thoughts-Hathaway/dp/B0DX1Y2WWQ/ref=sr_1_1"
+    },
+    {
+      "title": "The Beast of Yonder: Book 1 of the Metafictionals Series",
+      "description": "Middle-Grade/Young Adult Fantasy Novel",
+      "cover": "assets/book-beast-yonder.png",
+      "url": "https://www.amazon.com/Beast-Yonder-Book-Metafictionals/dp/0692214895/ref=sr_1_1"
+    },
+    {
+      "title": "Let's Learn Compound Words... WRONG!",
+      "description": "Children's picture book to help learn reading",
+      "cover": "assets/book-compound-words-wrong.png",
+      "url": "https://www.amazon.com/Learn-Compound-Words-WRONG-Wrong/dp/B0DFJQP4H3/ref=sr_1_1"
+    },
+    {
+      "title": "When You're Falling from the Treehouse",
+      "description": "Children's humorous picture book",
+      "cover": "assets/book-falling-treehouse.png",
+      "comingSoon": true
+    },
+    {
+      "title": "The Fates of Freedom: Book 2 of the Metafictionals Series",
+      "description": "Middle-Grade/Young Adult Fantasy Novel",
+      "cover": "assets/book-fates-freedom.png",
+      "comingSoon": true
+    }
+  ],
+  "resources": [
+    {
+      "title": "Books that lift the spirit, spark imagination, and bring smiles.",
+      "description": "Thank you for supporting an author's dream. Happy reading!"
+    }
+  ]
+}

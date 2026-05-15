@@ -1,0 +1,50 @@
+{
+  "title": "Education",
+  "kicker": "Learning, teaching, curiosity, and useful resources",
+  "description": "A hub for homeschool helps, personal education, science, math, history, recommendations, and learning tools.",
+  "icon": "education",
+  "subsectionHeading": "Education branches",
+  "subcategories": [
+    {
+      "title": "Homeschool Helps",
+      "description": "Resources, ideas, tools, and recommendations for family learning.",
+      "icon": "education"
+    },
+    {
+      "title": "Personal Education",
+      "description": "Self-directed learning, skills, notes, courses, and study paths.",
+      "icon": "education"
+    },
+    {
+      "title": "Science",
+      "description": "Science resources, experiments, observations, and recommendations.",
+      "icon": "education"
+    },
+    {
+      "title": "Math",
+      "description": "Math helps, tools, explanations, and learning materials.",
+      "icon": "education"
+    },
+    {
+      "title": "History",
+      "description": "History resources, timelines, recommendations, and study helps.",
+      "icon": "education"
+    },
+    {
+      "title": "Educational Recommendations",
+      "description": "Books, videos, tools, curricula, and other learning finds worth saving.",
+      "icon": "education"
+    },
+    {
+      "title": "Other",
+      "description": "Learning resources that may need their own branch later.",
+      "icon": "other"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Future education links",
+      "description": "This space can later point to study guides, recommendations, resource lists, and tools."
+    }
+  ]
+}

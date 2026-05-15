@@ -1,0 +1,22 @@
+{
+  "title": "Chas Hathaway",
+  "tagline": "Create, Build, Grow, Laugh, Inspire.",
+  "intro": "A personal hub for music, books, art, education, faith, games, ideas, and works in progress.",
+  "footerLeft": "Build what matters.",
+  "currently": [
+    { "symbol": "M", "text": "Gathering music, arrangements, and sheet music into one place." },
+    { "symbol": "B", "text": "Shaping books, writings, and future publishing paths." },
+    { "symbol": "E", "text": "Collecting helpful education resources and recommendations." },
+    { "symbol": "A", "text": "Organizing art, design, and visual ideas." }
+  ],
+  "updates": [
+    { "symbol": "*", "text": "This hub is being built as a GitHub Pages-friendly static site." },
+    { "symbol": "*", "text": "Music, Books and Writings, Education, and Art and Design are the first priority hubs." },
+    { "symbol": "*", "text": "More links and project pages will be added as they are ready." }
+  ],
+  "noteToYou": "This is a map of active work, useful links, creative branches, and future places to explore.",
+  "quickLinks": [
+    { "label": "GitHub", "url": "https://github.com/chashathaway" },
+    { "label": "Home Hub", "url": "index.html" }
+  ]
+}

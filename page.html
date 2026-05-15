@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chas Hathaway | Hub Page</title>
+  <meta name="description" content="A category hub from Chas Hathaway's personal website." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="detail-page">
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand-mark" href="index.html" aria-label="Chas Hathaway home">
+      <span class="brand-sigil">CH</span>
+      <span>
+        <span class="brand-name">Chas Hathaway</span>
+        <span class="brand-line">Back to the main hub</span>
+      </span>
+    </a>
+    <nav class="top-nav" aria-label="Primary">
+      <a href="index.html#worlds">Worlds</a>
+      <a href="page.html?page=music">Music</a>
+      <a href="page.html?page=books-and-writings">Books</a>
+      <a href="page.html?page=education">Education</a>
+      <a href="page.html?page=art-and-design">Art</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-hero">
+      <a class="back-link" href="index.html#worlds">Back to all worlds</a>
+      <p class="eyebrow" id="page-kicker">Category hub</p>
+      <h1 id="page-title">Loading...</h1>
+      <p class="intro" id="page-description"></p>
+    </section>
+
+    <section class="section-shell">
+      <div class="section-heading">
+        <p class="eyebrow">Branches</p>
+        <h2 id="subsection-heading">What belongs here</h2>
+      </div>
+      <div class="sub-grid" id="subcategories-grid"></div>
+    </section>
+
+    <section class="section-shell compact-section">
+      <div class="section-heading">
+        <p class="eyebrow">Saved for later</p>
+        <h2>Links and projects</h2>
+      </div>
+      <div class="link-board" id="resource-list"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>Chas Hathaway</span>
+    <span>Create, Build, Grow, Laugh, Inspire.</span>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

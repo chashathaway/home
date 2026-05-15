@@ -1,0 +1,40 @@
+{
+  "title": "Art and Design",
+  "kicker": "Images, ideas, visual experiments, and design work",
+  "description": "A place for Christian art, creative ideas, artistic expressions, design concepts, and visual projects.",
+  "icon": "art",
+  "subsectionHeading": "Art branches",
+  "subcategories": [
+    {
+      "title": "Christian Art",
+      "description": "Faith-informed visuals, symbolic pieces, and devotional artwork.",
+      "icon": "faith"
+    },
+    {
+      "title": "Creative Ideas",
+      "description": "Seeds for future artwork, concepts, experiments, and visual directions.",
+      "icon": "art"
+    },
+    {
+      "title": "Artistic Expressions",
+      "description": "Finished or developing pieces that do not need a commercial purpose to belong.",
+      "icon": "art"
+    },
+    {
+      "title": "Design",
+      "description": "Logos, layouts, interface ideas, visual systems, and useful design work.",
+      "icon": "art"
+    },
+    {
+      "title": "Other",
+      "description": "Visual work and ideas waiting for the right category.",
+      "icon": "other"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Future art links",
+      "description": "This space can later point to galleries, downloads, design portfolios, and individual artwork pages."
+    }
+  ]
+}

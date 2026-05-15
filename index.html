@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chas Hathaway | Personal Hub</title>
+  <meta name="description" content="The personal hub for Chas Hathaway: music, books, art, education, faith, games, ideas, and works in progress." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="home-page">
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand-mark" href="index.html" aria-label="Chas Hathaway home">
+      <span class="brand-sigil">CH</span>
+      <span>
+        <span class="brand-name">Chas Hathaway</span>
+        <span class="brand-line">Personal creative hub</span>
+      </span>
+    </a>
+    <nav class="top-nav" aria-label="Primary">
+      <a href="#worlds">Worlds</a>
+      <a href="page.html?page=music">Music</a>
+      <a href="page.html?page=books-and-writings">Books</a>
+      <a href="page.html?page=education">Education</a>
+      <a href="page.html?page=art-and-design">Art</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-art" aria-hidden="true">
+        <img src="assets/main-background.png" alt="" />
+      </div>
+      <div class="hero-copy">
+        <p class="eyebrow">Welcome to the workshop</p>
+        <h1 id="site-title">Chas Hathaway</h1>
+        <p class="tagline" id="site-tagline">Create, Build, Grow, Laugh, Inspire.</p>
+        <p class="intro" id="site-intro">A personal hub for music, books, art, education, faith, games, ideas, and works in progress.</p>
+      </div>
+    </section>
+
+    <section class="section-shell" id="worlds" aria-labelledby="worlds-title">
+      <div class="section-heading">
+        <p class="eyebrow">Explore my worlds</p>
+        <h2 id="worlds-title">Choose a doorway</h2>
+      </div>
+      <div class="world-grid" id="category-grid"></div>
+    </section>
+
+    <section class="lower-deck" aria-label="Notes and links">
+      <article class="parchment-panel">
+        <h2>Latest Notes</h2>
+        <ul class="note-list" id="updates-list"></ul>
+      </article>
+      <article class="parchment-panel">
+        <h2>A Note to You</h2>
+        <p id="note-to-you"></p>
+      </article>
+      <article class="parchment-panel">
+        <h2>Find Me</h2>
+        <div class="button-row" id="quick-links"></div>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span id="footer-left">Build what matters.</span>
+    <span>Stay curious.</span>
+    <span>Love deeply.</span>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
