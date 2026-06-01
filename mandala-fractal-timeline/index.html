@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <title>Mandala Fractal Timeline</title>
+    <script type="module" crossorigin src="./assets/mandala-qQYnHZTH.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
+    <link rel="stylesheet" crossorigin href="./assets/mandala-CU1fZCJ8.css">
+  </head>
+  <body>
+    <main class="mandala-stage">
+      <canvas id="fractal-canvas" aria-label="Infinitely zoomable mandala timeline"></canvas>
+      <div id="year-display" class="year-display">2026</div>
+      <div class="touch-controls" aria-label="Timeline controls">
+        <button class="touch-button" type="button" data-touch-direction="down" aria-label="Zoom in and go earlier">↓</button>
+        <button class="touch-button touch-button-small" type="button" data-touch-shift aria-label="Change years by 100">100</button>
+        <button class="touch-button" type="button" data-touch-direction="up" aria-label="Zoom out and go later">↑</button>
+      </div>
+    </main>
+  </body>
+</html>
