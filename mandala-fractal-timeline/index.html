@@ -7,9 +7,9 @@
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
     />
     <title>Mandala Fractal Timeline</title>
-    <script type="module" crossorigin src="./assets/mandala-B35uefKH.js"></script>
+    <script type="module" crossorigin src="./assets/mandala-CChB3yDC.js"></script>
     <link rel="modulepreload" crossorigin href="./assets/modulepreload-polyfill-B5Qt9EMX.js">
-    <link rel="stylesheet" crossorigin href="./assets/mandala-CJL_sZpG.css">
+    <link rel="stylesheet" crossorigin href="./assets/mandala-CR5pvgg5.css">
   </head>
   <body>
     <main class="mandala-stage">
@@ -17,6 +17,16 @@
       <div id="timeline-title" class="timeline-title">Mandala Timeline</div>
       <div id="timeline-error" class="timeline-error" hidden></div>
       <div id="year-display" class="year-display">2026</div>
+      <section id="timeline-manager" class="timeline-manager" aria-label="Open timelines">
+        <button id="timeline-panel-toggle" class="timeline-panel-toggle" type="button" aria-label="Timeline list">☰</button>
+        <div class="timeline-panel">
+          <div class="timeline-panel-actions">
+            <button id="open-timeline-button" class="timeline-action-button" type="button">Open Timeline</button>
+          </div>
+          <div id="timeline-list" class="timeline-list"></div>
+        </div>
+      </section>
+      <input id="timeline-file-input" type="file" accept="application/json,.json" multiple hidden />
       <div class="touch-controls" aria-label="Timeline controls">
         <button class="touch-button" type="button" data-touch-direction="down" aria-label="Zoom in and go earlier">↓</button>
         <button class="touch-button touch-button-small" type="button" data-touch-shift aria-label="Change years by 100">100</button>
